@@ -54,7 +54,7 @@ class InfoPage extends StatelessWidget {
                 ),
               ),
               Text(
-                'Sara Biji Abraham',
+                'Sara Biji',
                 style: TextStyle(
                     color: Colors.grey[700], letterSpacing: 4, fontSize: 14),
               ),
@@ -126,7 +126,7 @@ class InfoPage extends StatelessWidget {
                     color: Colors.grey[700],
                   ),
                   const SizedBox(width: 10),
-                  Text("+91 1524638252",
+                  Text("+91 1234567890",
                       style: TextStyle(
                         color: Colors.grey[700],
                         letterSpacing: 1,
