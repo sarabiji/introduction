@@ -1,4 +1,4 @@
-# introduction
+# Introduction
 
 A new Flutter project where the person's details are displayed in a static screen.
 
